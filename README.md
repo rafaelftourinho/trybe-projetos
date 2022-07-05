@@ -42,16 +42,16 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 
 #### Projetos
 
-- [x] Bloco 9 - Shoppingcart and Jest(Async/Mocking) - 
-- [x] Bloco 11 - Movie Cards Library - 
-- [x] Bloco 12 - Movie Cards Library Stateful - 
-- [x] Bloco 13 - Movie Cards Library Crud - 
+- [ ] Bloco 9 - Shoppingcart and Jest(Async/Mocking) - 
+- [ ] Bloco 11 - Movie Cards Library - 
+- [ ] Bloco 12 - Movie Cards Library Stateful - 
+- [ ] Bloco 13 - Movie Cards Library Crud - 
 
 ---
 
 ### ⚙️ Módulo - Desenvolvimento Back-End
 
-- [x] Bloco 19 - Docker Todo List - 
-- [x] Bloco 20 - All For One - 
-- [x] Bloco 21 - One For All - 
-- [x] Bloco 22 - Talker Manager - 
+- [ ] Bloco 19 - Docker Todo List - 
+- [ ] Bloco 20 - All For One - 
+- [ ] Bloco 21 - One For All - 
+- [ ] Bloco 22 - Talker Manager - 
