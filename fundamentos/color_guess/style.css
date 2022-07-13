@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-image: url('./imgs/studio-shot-of-colorful-festival-colors.jpg');
+  color:white;
+}
+
+h1 {
+  margin: 10px 0;
+  font-size: xx-large;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+span {
+  margin-bottom: 10px;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+#section-balls {
+  display: flex;
+  justify-content: center;
+}
+
+.ball {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 10px;
+  border: 0.5px solid black;
+  opacity: 0.6;
+}
+
+.ball:hover {
+  opacity: 1;
+}
+
+#reset-game {
+  padding: 10px;
+  margin: 10px 0;
+  background-color: rgba(255, 191, 0, 0.524);
+  border-radius: 4px;
+  color: white;
+}
+
+#reset-game:hover {
+  background-color: rgba(255, 191, 0, 0.998);
+}
+
+.container {
+  margin: 20px;
+}

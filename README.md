@@ -26,15 +26,15 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 
 #### Projetos
 - [x] Bloco 3 - [Lessons Learned](https://github.com/rafaelftourinho/trybe-projetos/tree/main/lessons_learned)
-- [x] Bloco 4 - Playground Functions  - 
-- [x] Bloco 5 - Pixel Art - 
-- [x] Bloco 5 - Todo List - 
-- [x] Bloco 5 - EXTRAS - Color Guess - 
-- [x] Bloco 5 - EXTRAS - Meme Generator - 
-- [x] Bloco 5 - EXTRAS - Mistery Letter - 
-- [x] Bloco 6 - Trybewarts - 
-- [x] Bloco 7 - ES6 e Testes Unitários - 
-- [x] Bloco 8 - ES6 e Higher Order Functions - 
+- [x] Bloco 4 - [Playground Functions](https://github.com/rafaelftourinho/trybe-projetos/tree/main/playground_functions)
+- [x] Bloco 5 - [Pixel Art](https://github.com/rafaelftourinho/trybe-projetos/tree/main/pixels_art)  
+- [x] Bloco 5 - EXTRAS - [Todo List](https://github.com/rafaelftourinho/trybe-projetos/tree/main/to_do_list) 
+- [x] Bloco 5 - EXTRAS - [Color Guess](https://github.com/rafaelftourinho/trybe-projetos/tree/main/color_guess) 
+- [x] Bloco 5 - EXTRAS - [Meme Generator](https://github.com/rafaelftourinho/trybe-projetos/tree/main/meme_generator) 
+- [x] Bloco 5 - EXTRAS - [Mistery Letter](https://github.com/rafaelftourinho/trybe-projetos/tree/main/mistery_letter) 
+- [x] Bloco 6 - [Trybewarts](https://github.com/rafaelftourinho/trybe-projetos/tree/main/trybewarts) 
+- [x] Bloco 7 - [ES6 e Testes Unitários](https://github.com/rafaelftourinho/trybe-projetos/tree/main/unit_tests) 
+- [x] Bloco 8 - [Zoo Functions](https://github.com/rafaelftourinho/trybe-projetos/tree/main/zoo_functions) 
 
 ---
 
@@ -42,16 +42,16 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 
 #### Projetos
 
-- [ ] Bloco 9 - Shoppingcart and Jest(Async/Mocking) - 
-- [ ] Bloco 11 - Movie Cards Library - 
-- [ ] Bloco 12 - Movie Cards Library Stateful - 
-- [ ] Bloco 13 - Movie Cards Library Crud - 
+- [x] Bloco 9 - [Shoppingcart and Jest(Async/Mocking)](https://github.com/rafaelftourinho/trybe-projetos/tree/main/shopping_cart) 
+- [ ] Bloco 11 - [Movie Cards Library]() 
+- [ ] Bloco 12 - [Movie Cards Library Stateful]() 
+- [ ] Bloco 13 - [Movie Cards Library Crud]() 
 
 ---
 
 ### ⚙️ Módulo - Desenvolvimento Back-End
 
-- [ ] Bloco 19 - Docker Todo List - 
-- [ ] Bloco 20 - All For One - 
-- [ ] Bloco 21 - One For All - 
-- [ ] Bloco 22 - Talker Manager - 
+- [ ] Bloco 19 - [Docker Todo List]() 
+- [ ] Bloco 20 - [All For One]() 
+- [ ] Bloco 21 - [One For All]() 
+- [ ] Bloco 22 - [Talker Manager]() 

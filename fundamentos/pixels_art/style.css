@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-image: url('https://media0.giphy.com/media/3oz8xwc7pslZUr8MFy/200w.webp?cid=ecf05e474ri37ihpzzndoyerpg1lfv1xrlhcdpppovmr4azc&rid=200w.webp&ct=g');
+}
+
+h1 {
+  margin: 20px;
+  background-color: #ddd;
+}
+
+#color-palette {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.color {
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  margin-right: 10px;
+  border-radius: 50%;
+  opacity: 0.8;
+}
+
+.color:hover {
+  opacity: 1;
+}
+
+#pixel-board {
+  margin-top: 20px;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+}
+
+#clear-board , #generate-board , #change-colors {
+  padding: 7px;
+}
+
+#change-colors {
+  margin: 10px;
+}
+
+input {
+  width: 5.5%;
+}
