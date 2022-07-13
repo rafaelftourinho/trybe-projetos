@@ -25,7 +25,7 @@ Cada pasta acima contém um arquivo README com detalhes de cada projetos.
 ### 🖥 Módulo - Fundamentos do Desenvolvimento Web
 
 #### Projetos
-- [x] Bloco 3 - Lessons Learned  - 
+- [x] Bloco 3 - [Lessons Learned](https://github.com/rafaelftourinho/trybe-projetos/tree/main/lessons_learned)
 - [x] Bloco 4 - Playground Functions  - 
 - [x] Bloco 5 - Pixel Art - 
 - [x] Bloco 5 - Todo List - 
